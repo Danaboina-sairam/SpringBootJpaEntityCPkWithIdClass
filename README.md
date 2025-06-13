@@ -1,0 +1,2 @@
+# SpringBootJpaEntityCPkWithIdClass
+SpringBootJpaEntityCPkWithIdClass
